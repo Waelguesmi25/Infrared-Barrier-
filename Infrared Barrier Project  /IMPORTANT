@@ -1,6 +1,0 @@
-barriere_IR.sch : Schematic file containing the main circuit design of the Infrared Barrier system.
-barriere_IR.brd : PCB layout file for manufacturing or DIY etching.
-schéma_de_routage.pdf : PDF showing the routing diagram of the PCB tracks.
-schéma_d'implantation.pdf : PDF showing the placement of all components on the PCB.
-TYPON.pdf : PDF mask for PCB fabrication.
-barriere_IR.s## / barriere_IR.s#1 : Backup schematic versions (Eagle format).
